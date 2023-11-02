@@ -1,0 +1,32 @@
+.GroupCard{
+    display: flex;
+    flex-direction:column;
+    align-items: center;
+    width: 320px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.group-head{
+    width: 95%;
+    display: flex;
+    justify-content: space-between;
+    padding-top: 35px;
+    padding-bottom: 20px;
+    letter-spacing: 1px;
+   font-weight: 500;
+   color: rgb(51, 51, 51);
+}
+
+.count{
+    color: #787C82ff;
+}
+
+.group-head-left{
+    display: flex;
+    column-gap: 8px;
+}
+
+.group-head-right{
+    display: flex;
+    column-gap: 8px;
+}

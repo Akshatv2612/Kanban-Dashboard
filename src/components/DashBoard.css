@@ -1,0 +1,14 @@
+.DashBoard{
+    min-width: 100vw;
+    margin: 0;
+    width: fit-content;
+    height: auto;
+    display: flex;
+    flex-wrap: wrap;
+    column-gap: 85px;
+    padding-left: 50px;
+    margin-top: 70px;
+    background-color: #F4F5F8ff;
+    font-size: 13px;
+    overflow-x: hidden;
+}
